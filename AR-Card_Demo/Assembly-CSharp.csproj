@@ -74,6 +74,7 @@
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\card-and-frame.xml" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/phill/Desktop/code/ar-playcard---photoframe/AR-Card_Demo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
